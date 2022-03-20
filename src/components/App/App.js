@@ -33,7 +33,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <div className="App">
+      <div className="App" id="App">
         <h1>Yelp Search Application</h1>
         <SearchBar searchYelp={this.searchYelp} />
         <BusinessList businesses={this.state.businesses}/>
