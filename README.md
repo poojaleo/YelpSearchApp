@@ -4,7 +4,7 @@ of Best Restaurants, Shopping, Nightlife, Food, Entertainment, Things to Do, Ser
 
 
 
-###Technologies Used :
+### Technologies Used :
 * React-JS 
 * Yelp's API 
 * Netlify.com (for hosting)
