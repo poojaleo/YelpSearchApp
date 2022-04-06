@@ -4,12 +4,12 @@ of Best Restaurants, Shopping, Nightlife, Food, Entertainment, Things to Do, Ser
 
 ### Live Project Preview:
 
-[Yelp Search Application](https://yelp-search-application.netlify.app/)
+[Yelp Search Application](https://main.d1vx4jnnoulrzn.amplifyapp.com/)
 
 ### Technologies Used :
 * React-JS 
 * Yelp's API 
-* Netlify.com (for hosting)
+* AWS Amplify (for hosting)
 
 ### Installation
 
